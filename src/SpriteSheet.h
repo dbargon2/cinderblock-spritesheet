@@ -13,7 +13,8 @@
 
 class SpriteSheet{
 public:
-	
+
+        SpriteSheet();
 	static const int FORMAT_TEXTUREPACKER_GENERIC_XML = 1;
 
 	void draw();
